@@ -10,3 +10,7 @@ $$
 
 
 # Creado por José Pablo Cabrera Romo
+<<<<<<< HEAD
+=======
+# jose94pablo@gmail.com
+>>>>>>> readme-better
