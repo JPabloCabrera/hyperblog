@@ -7,3 +7,6 @@ La *Función Gamma satisface* $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ es 
 $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
+
+
+# Creado por José Pablo Cabrera Romo
